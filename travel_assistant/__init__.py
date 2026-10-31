@@ -1,0 +1,1 @@
+"""Travel assistant package for the UCV multiagent laboratory."""
